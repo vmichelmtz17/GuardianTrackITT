@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">GuardianTrack</string>
+    <string name="menu_login">Iniciar Sesión</string>
+    <string name="menu_register">Registrarse</string>
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="register_title">Registrarse</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="register_button">Registrarse</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="home_familiar_title">Inicio - Familiar</string>
+    <string name="home_profesional_title">Inicio - Profesional</string>
+    <string name="logout_button">Cerrar Sesión</string>
+    <string name="welcome_message">Bienvenido a Mi Aplicación</string>
+    <string name="user_type_familiar">Familiar</string>
+    <string name="user_type_profesional">Profesional</string>
+    <string name="title_activity_login">Login</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="menu">Menú</string>
+    <string name="user_name">Nombre del Usuario</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_logout">Cerrar Sesión</string>
+    <string name="button_ubicacion">Ubicación</string>
+    <string name="button_paciente">Paciente</string>
+    <string name="button_pagina_web">Página Web</string>
+    <string name="button_contacto">Contacto</string>
+
+    <string name="navigation_drawer_open">Abrir navegación</string>
+    <string name="navigation_drawer_close">Cerrar navegación</string>
+
+
+</resources>
